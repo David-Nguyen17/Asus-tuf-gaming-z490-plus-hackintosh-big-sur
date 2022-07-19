@@ -1,6 +1,7 @@
 # Asus-tuf-gaming-z490-plus-hackintosh-big-sur
-OS: Bigsur 11.2.3
+
 EFI Hackintosh
+  0. Bigsur 11.2.3
   1. MainBoard Asus Z490 TUF
   2. RAM 16GB
   3. SSD 512 Samsung
